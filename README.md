@@ -3,7 +3,7 @@ My name is Paweł and i'm fascinating in Front End Developing.
 
 # 💫 About Me:
 I'm from Katowice, Poland :poland: <br>
-I’m currently looking for a job <br>
+I’m currently teaching Angular<br>
 
 
 # 💻 Tech Stack:
