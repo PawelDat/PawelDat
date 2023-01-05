@@ -23,6 +23,4 @@ I’m currently learing Angular<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawelDat&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelDat&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###  Random Dev Meme to make your day better
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
